@@ -1,0 +1,10 @@
+Data Structure,Rajesh Patel,12345,true,null,null
+Full Stack Development,Sapna Parekh,7895,true,null,null
+Introduction to Algorithms,Vikram Singh,9876543210,false,shyam,Tue Apr 16 13:22:05 IST 2024
+The C Programming Language,Alok Kumar,13579,true,null,null
+Clean Code: A Handbook of Agile Software Craftsmanship,Anjali Gupta,24680,true,null,null
+JavaScript: The Good Parts,Rohit Sharma,112233,true,null,null
+The Pragmatic Programmer: Your Journey to Mastery,Priya Singh,445566,true,null,null
+Design Patterns: Elements of Reusable Object-Oriented Software,Rakesh Kumar,778899,true,null,null
+Cracking the Coding Interview: 189 Programming Questions and Solutions,Neha Verma,334455,true,null,null
+Artificial Intelligence: A Modern Approach,Vishal Sharma,1122334455,false,vatsal,Sun Apr 14 14:38:48 IST 2024
